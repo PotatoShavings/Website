@@ -1,0 +1,23 @@
+portfolio website tutorial: https://www.youtube.com/watch?v=x7mwVn2z3Sk
+react-router-dom tutorial: https://www.youtube.com/watch?v=UjHT_NKR_gU&ab_channel=PedroTech
+css tutorial: https://www.w3schools.com/css/default.asp
+
+
+
+stuff to install (nvm/n have similar functionalities iirc):
+homebrew: https://brew.sh/
+using homebrew to get curl:
+  https://everything.curl.dev/get/macos
+  """
+  If you need to have curl first in your PATH, run:
+  echo 'export PATH="/usr/local/opt/curl/bin:$PATH"' >> /Users/nickf/.bash_profile
+
+  For compilers to find curl you may need to set:
+  export LDFLAGS="-L/usr/local/opt/curl/lib"
+  export CPPFLAGS="-I/usr/local/opt/curl/include"
+  """
+using curl to install nvm:
+  https://github.com/nvm-sh/nvm
+
+installing node and npm from:
+  https://nodejs.org/en/download/
